@@ -1,5 +1,4 @@
-# Reactjs-MaterialUI-Resturant-website
-Complete Reactjs Resturant Website 
+# Reactjs-MaterialUI-Resturant-website 
 A modern and responsive restaurant website built using HTML, CSS, and JavaScript. This project showcases a visually appealing and user-friendly interface for restaurants to display their menu, services, and contact information.
 
 # Installation
