@@ -1,9 +1,9 @@
 {
+  "homepage":
+  "https//aman-2206.github.io/restaurant-site",
   "name": "resturant-website",
   "version": "0.1.0",
   "private": true,
-  "homepage":
-  "https//aman-2206.github.io/restaurant-site",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
